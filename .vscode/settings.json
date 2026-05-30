@@ -1,0 +1,9 @@
+{
+    "java.autobuild.enabled": false,
+    "gradle.java.home": "C:\\Program Files\\Java\\jdk-17", 
+    "files.watcherExclude": {
+        "**/.git/objects/**": true,
+        "**/android/.gradle/**": true,
+        "**/android/app/build/**": true
+    }
+}
